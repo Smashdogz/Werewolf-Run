@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Werewolf Run (summer game 2018)", "Assembly-CSharp-firstpass.csproj", "{989CFBD2-1681-6286-DEEA-BA5677801CF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Werewolf Run (summer game 2018)", "Assembly-CSharp.csproj", "{B04495A7-C142-6880-7A55-166DD0B8C1F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Werewolf Run (summer game 2018)", "Assembly-CSharp-Editor-firstpass.csproj", "{8D2658AA-356E-CF30-9FBC-5FCB6D61D9F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{989CFBD2-1681-6286-DEEA-BA5677801CF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{989CFBD2-1681-6286-DEEA-BA5677801CF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{989CFBD2-1681-6286-DEEA-BA5677801CF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{989CFBD2-1681-6286-DEEA-BA5677801CF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B04495A7-C142-6880-7A55-166DD0B8C1F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04495A7-C142-6880-7A55-166DD0B8C1F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04495A7-C142-6880-7A55-166DD0B8C1F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04495A7-C142-6880-7A55-166DD0B8C1F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D2658AA-356E-CF30-9FBC-5FCB6D61D9F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2658AA-356E-CF30-9FBC-5FCB6D61D9F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2658AA-356E-CF30-9FBC-5FCB6D61D9F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2658AA-356E-CF30-9FBC-5FCB6D61D9F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
